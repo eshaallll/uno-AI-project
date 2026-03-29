@@ -3,7 +3,7 @@
 **Name:** Eshaal Hussain  
 **Roll No:** 24i-2509  
 **Assignment:** 02  
-
+** Simulation Link:** https://drive.google.com/file/d/1NwT4Mruw_qf3hy7E_KazLmzEUaelQ0FD/view?usp=drive_link
 ---
 
 ## 🎯 Project Overview
