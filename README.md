@@ -3,7 +3,6 @@
 **Name:** Eshaal Hussain  
 **Roll No:** 24i-2509  
 **Assignment:** 02  
-**GitHub Link:** https://github.com/eshaallll/uno-AI-project
 
 ---
 
