@@ -48,8 +48,3 @@ This submission includes a **Casino-themed GUI** developed in Tkinter, featuring
 * `README.md`: Project documentation.
 * `casino.jpg`: GUI background asset.
 ---
-
-## 📁 Required Deliverables in Repo
-* `i242509-A02.ipynb`: Main source code and algorithm comparisons.
-* `Search_Tree_Handwritten.jpg`: Handwritten design of the Minimax/Expectimax trees.
-* `README.md`: Project documentation and setup instructions.
